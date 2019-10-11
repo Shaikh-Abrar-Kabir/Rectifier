@@ -1,43 +1,9 @@
 # Rectifier
 
-<!doctype html>
+<img src="acdc.JPG" style="width:100%;object-fit:contain;pointer-events:none;"/>
 
-<html>
-
-
-
-    <head>
-
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <style>
-
-            img {
-
-                width: 100%;
-
-                object-fit: contain;
-
-                pointer-events: none;
-
-            }
-
-        </style>
-
-    </head>
+<img src="acdc2.JPG" style="width:100%;object-fit:contain;pointer-events:none;"/>
 
 
 
-    <body>
 
-        <img src="acdc.JPG" />
-
-        <img src="acdc2.JPG" />
-
-
-
-    </body>
-
-
-
-</html>
